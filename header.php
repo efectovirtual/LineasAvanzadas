@@ -16,7 +16,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
-
 <?php wp_head(); ?>
 </head>
 
@@ -55,7 +54,7 @@
 					</div>
 
 				</div>
-				<div class="medium-6 large-2 columns contacto-top">Contáctanos</div>
+				<div class="medium-6 large-2 columns contacto-top"><a href="<?php the_permalink(); ?>contactos">Contáctanos</a></div>
 			</div>
 		</div>
 
