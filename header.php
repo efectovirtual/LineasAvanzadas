@@ -34,15 +34,15 @@
 		<div class="topinfo">
 			<div class="row align-center">
 				<div class="medium-6 large-3 columns"><i class="fa fa-envelope-o" aria-hidden="true"></i>info@lineasavanzadas.com</div>
-				<div class="medium-6 large-4 columns"><i class="fa fa-mobile" aria-hidden="true"></i><strong>Llámanos: </strong>(575) 358 78 12 - 310 665 2338</div>
+				<div class="medium-6 large-4 columns"><i class="fa fa-mobile" aria-hidden="true"></i><strong>Llámanos: </strong>(575) 358 78 12 <i class="fa fa-whatsapp"></i>310 665 2338</div>
 				<div class="medium-6 large-3 columns">Síguenos en:
 
 					<div id="socialicons">
-						<a class="icon" href="#" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a class="icon" href="https://www.facebook.com/Lineas-Avanzadas-2022487837979700" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
 
-						<a class="icon" href="#" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a class="icon" href="https://www.instagram.com/lineasavanzadas" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
 
-						<a class="icon" href="#" title="Follow with Google Plus" target="_blank"><i class="fa fa-google-plus"></i></a>
+						<a class="icon" href="https://twitter.com/LineasAvanzadas" title="Follow with Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
 
 							<!-- 			<a class="icon" href="#" title="Follow with Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
 							<a class="icon" href="#" title="Follow with Bloglovin" target="_blank"><i class="fa fa-heart"></i></a>
@@ -68,7 +68,7 @@
 			<div class="row">
 
 					<div class="medium-12 large-5 columns imglogotop">
-						<img src="<?php echo get_template_directory_uri(); ?>/img/logotop-la.png" alt="Logo">
+						<img src="<?php echo get_template_directory_uri(); ?>/img/lineas-avanzadas-logo.png" alt="Logo">
 					</div>
 
 					<!-- Menu -->

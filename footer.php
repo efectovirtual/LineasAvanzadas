@@ -17,7 +17,7 @@
     <div class="row-100">
       <div class="columns medium-12 barra-top-footer"></div>
       <div class="columns medium-12 bg-info-footer">
-      <img src="<?php echo get_template_directory_uri(); ?>/img/logo-blanco.png" alt="Logo Lineas Avanzadas">
+      <img src="<?php echo get_template_directory_uri(); ?>/img/lineas-avanzadas-logoBlanco.png" alt="Logo Lineas Avanzadas">
         <p>
           <strong>Carrera 52 N° 72 -114 Local 28 y 30B</strong><br>
           Cel: 310 6652338  - 313 6834637 - Tel: 3587812 - Fax: 3565859

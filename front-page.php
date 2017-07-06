@@ -113,7 +113,7 @@ Es la oportunidad de tener un buen servicio a un bajo costo en la hora indicada.
 </p>
       </div>
       <div class="columns medium-5">
-        <img src="wp-content/uploads/2017/07/centrocopiado.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/introduction-la.jpg" alt="Líneas Avanzadas">
       </div>
     </div>
   </div>

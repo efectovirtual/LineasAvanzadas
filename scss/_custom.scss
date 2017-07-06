@@ -53,12 +53,17 @@ body{
     color: rgba(255,255,255,.7);
 }
 
-i.fa-mobile{
+i.fa-mobile {
   @include iconos;
 }
 
 .fa-envelope-o{
   @include iconos($tam: 20px);
+}
+
+i.fa-whatsapp{
+  padding-left: 10px;
+  @include iconos($tam: 22px);
 }
 
 .contacto-top{
@@ -259,7 +264,7 @@ i.fa-mobile{
 
 .servicios-home{
   margin-top: 100px;
-  background: url(../img/bg-servicios.jpg);
+  background: url(../img/bg-servicios3.jpg) center center;
   height: 700px;
 
   h1{
@@ -277,8 +282,9 @@ i.fa-mobile{
     h3{
       text-align: center;
       color: #fff;
-      font-size: 17px;
+      font-size: 20px;
       margin-top: 10px;
+      font-weight: 700;
     }
   }
 
